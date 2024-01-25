@@ -1,0 +1,2 @@
+let openerArr = ['What do we have here,', 'Hey, it looks like', 'Interesting results,', 'One of the best out there,', 'Great pack pull,', 'Fortune favours you,', 'If your seeing this then,', 'The EA gods have answered your prayers,'];
+console.log(openerArr);
